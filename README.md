@@ -62,9 +62,9 @@ Contact us to discuss your specific print workflow needs.
 **Developer:** Leondas Paul, III  
 **Company:** Galilee Gallery  
 **Email:** leondaspaul3@gmail.com  
-**Phone:** 954-588-1136  
+**Phone:** (910) 206-4996  
 
-*Developed for OS Print Shops*
+*Developed for One Stop Print & Vape Shop, LLC*
 
 ---
 
