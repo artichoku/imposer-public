@@ -61,7 +61,7 @@ Contact us to discuss your specific print workflow needs.
 
 **Developer:** Leondas Paul, III  
 **Company:** Galilee Gallery  
-**Email:** osprintshops@gmail.com  
+**Email:** leondaspaul3@gmail.com  
 **Phone:** 954-588-1136  
 
 *Developed for OS Print Shops*
