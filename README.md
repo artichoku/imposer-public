@@ -4,8 +4,6 @@
 
 Professional desktop imposition software for the print industry. Create N-up layouts, booklet signatures, multi-up impositions, and more with an intuitive interface.
 
-> **Note:** This is proprietary software currently in beta development. Source code is not publicly available.
-
 ## About
 
 Imposer is a comprehensive imposition solution designed specifically for commercial print shops and in-plant operations. Built with modern technology, it streamlines the process of arranging pages for efficient printing and binding.
@@ -22,6 +20,18 @@ Imposer is a comprehensive imposition solution designed specifically for commerc
 - Portrait and landscape orientation support
 - Booklet mode with automatic page reordering
 - Multiple sheet size presets plus custom dimensions
+
+### Page Rotation ✨ NEW
+- Single page, range, or all pages
+- Quick presets: 90°, 180°, 270°
+- Custom degree input
+- Full pipeline integration
+
+### Page Mirroring ✨ NEW
+- Horizontal and vertical flipping
+- Single page, range, or all pages
+- Toggle enable/disable
+- Full pipeline integration
 
 ### Multi-up Layouts
 - Repeat single pages multiple times per sheet
@@ -41,6 +51,8 @@ Imposer is a comprehensive imposition solution designed specifically for commerc
 - Page resize with flexible scaling options
 - Side-by-side preview comparison
 - Real-time visual preview
+- Page numbering overlay with custom positioning
+- Operation pipeline for chaining transformations
 
 ## Use Cases
 
