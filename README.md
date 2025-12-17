@@ -1,8 +1,10 @@
 # Imposer
 
-**Version 0.4.0-beta**
+**Version 0.4.1-beta**
 
 Professional desktop imposition software for the print industry. Create N-up layouts, booklet signatures, multi-up impositions, and more with an intuitive interface.
+
+**Latest:** UX improvements - Mode selector tooltip and auto-detection suggestion for multi-page PDFs
 
 ## About
 
