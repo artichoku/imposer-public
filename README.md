@@ -4,14 +4,20 @@
 
 Professional desktop imposition software for the print industry. Create N-up layouts, booklet signatures, multi-up impositions, and more with an intuitive interface.
 
-**Latest:** UX improvements - Mode selector tooltip and auto-detection suggestion for multi-page PDFs
+## Purchase
+
+**Get Imposer:** [imposer.pikzulstudios.com](https://imposer.pikzulstudios.com)
+
+Available for Windows 10 and later.
+
+---
 
 ## About
 
 Imposer is a comprehensive imposition solution designed specifically for commercial print shops and in-plant operations. Built with modern technology, it streamlines the process of arranging pages for efficient printing and binding.
 
-**Status:** Active Development (Beta)  
-**Platform:** Windows Desktop Application  
+**Status:** Active Development (Beta)
+**Platform:** Windows Desktop Application
 **Target Users:** Print shops, commercial printers, in-plant print operations
 
 ## Key Features
@@ -68,17 +74,15 @@ Imposer is a comprehensive imposition solution designed specifically for commerc
 
 This software is currently in beta development and not yet available for purchase.
 
-**Interested in early access or custom development?**  
+**Interested in early access or custom development?**
 Contact us to discuss your specific print workflow needs.
 
-## Contact
+## Contact & Support
 
-**Developer:** Leondas Paul, III  
-**Company:** Galilee Gallery  
-**Email:** leondaspaul3@gmail.com  
-**Phone:** (910) 206-4996  
-
-*Developed for One Stop Print & Vape Shop, LLC*
+**Pikzul Studios, LLC**
+- **Email:** hello@pikzulstudios.com
+- **Support:** support@pikzulstudios.com
+- **Website:** [pikzulstudios.com](https://pikzulstudios.com)
 
 ---
 
@@ -86,11 +90,9 @@ Contact us to discuss your specific print workflow needs.
 
 If you're interested in:
 - **Beta testing** the software in your production environment
-- **Custom features** tailored to your specific workflows
-- **Purchasing** a license when released
 - **Partnership opportunities**
 
-Please reach out via email or phone. We're actively seeking feedback from print professionals to refine the product before commercial release.
+Please reach out via email. We're actively seeking feedback from print professionals to refine the product.
 
 ## Technology
 
@@ -98,6 +100,38 @@ Built with modern desktop application frameworks for Windows, ensuring:
 - Fast performance with large PDF files
 - Reliable PDF manipulation and generation
 - Professional-quality output
+
+---
+
+## System Requirements
+
+**Minimum:**
+- Windows 10 (64-bit) or later
+- 4 GB RAM
+- Dual-core 2.0 GHz processor
+- DirectX 11 compatible GPU
+- 100 MB available disk space
+- Keyboard and mouse required
+
+**Recommended:**
+- Windows 11 (64-bit)
+- 8 GB RAM or more
+- Quad-core 2.5 GHz processor or higher
+- DirectX 12 compatible GPU with hardware acceleration
+
+---
+
+## About Pikzul Studios
+
+Imposer is developed by **Pikzul Studios, LLC**.
+
+- **Website:** [pikzulstudios.com](https://pikzulstudios.com)
+- **Support:** support@pikzulstudios.com
+- **Business Inquiries:** hello@pikzulstudios.com
+
+---
+
+**© 2025-2026 Pikzul Studios, LLC. All rights reserved.**
 - Intuitive user interface
 
 ---
